@@ -1,0 +1,4 @@
+processes:
+  project:
+    command: devbox run npm start
+    working_dir: project/frontends/web
